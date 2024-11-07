@@ -241,7 +241,7 @@ if __name__ == '__main__':
     #  # loading the annotation file and results
     # with open('/home/sun/projects/cleanup-table/results/vlm_kitchen_cskt0_zeroshot1_results.json', 'r') as file:
     #     label_results = json.load(file)
-    with open('/home/sun/projects/cleanup-table/annotations/task3_annotations_xw.json', 'r') as file:
+    with open('/home/sun/projects/cleanup-table/annotations/task3_annotations.json', 'r') as file:
         label_results = json.load(file)
 
     state_only = 0
