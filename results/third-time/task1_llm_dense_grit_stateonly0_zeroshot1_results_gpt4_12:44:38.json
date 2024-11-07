@@ -1,0 +1,1651 @@
+[
+    {
+        "scene39": {
+            "plate": {
+                "color": "uncertain",
+                "size": "uncertain",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "uncertain",
+                "grasping_type": "edge grasp",
+                "placing_type": "uncertain"
+            }
+        }
+    },
+    {
+        "scene38": {}
+    },
+    {
+        "scene1": {
+            "spoon": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty",
+                "destination": "dishwasher",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "bowl": {
+                "color": "pink",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "uncertain",
+                "grasping_type": "edge grasp",
+                "placing_type": "uncertain"
+            }
+        }
+    },
+    {
+        "scene3": {
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "spoon": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "plate": {
+                "color": "silver",
+                "size": "big",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene34": {
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "plate": {
+                "color": "white",
+                "size": "big",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene22": {
+            "container 1": {
+                "color": "clear",
+                "size": "medium",
+                "shape": "rectangular",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "bowl": {
+                "color": "white",
+                "size": "big",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "orange 1": {
+                "color": "orange",
+                "size": "medium",
+                "shape": "spherical",
+                "container": "false",
+                "state": "intact",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "orange 2": {
+                "color": "orange",
+                "size": "medium",
+                "shape": "spherical",
+                "container": "false",
+                "state": "leftover food",
+                "destination": "uncertain",
+                "grasping_type": "top grasp",
+                "placing_type": "uncertain"
+            },
+            "donut": {
+                "color": "uncertain",
+                "size": "medium",
+                "shape": "round",
+                "container": "false",
+                "state": "intact",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene10": {
+            "apple 1": {
+                "color": "green",
+                "size": "medium",
+                "shape": "spherical",
+                "container": "false",
+                "state": "intact",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "plate": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "dishwasher",
+                "grasping_type": "edge grasp",
+                "placing_type": "pour"
+            },
+            "spoon": {
+                "color": "silver",
+                "size": "small",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "apple 2": {
+                "color": "red",
+                "size": "medium",
+                "shape": "spherical",
+                "container": "false",
+                "state": "intact",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "apple 3": {
+                "color": "green",
+                "size": "big",
+                "shape": "spherical",
+                "container": "false",
+                "state": "intact",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene25": {
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "tablecloth": {
+                "color": "blue and white",
+                "size": "big",
+                "shape": "rectangular",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "ungraspable",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene14": {
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "plate": {
+                "color": "white with red trim",
+                "size": "big",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene32": {
+            "bowl 1": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "bowl 2": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "uncertain",
+                "grasping_type": "edge grasp",
+                "placing_type": "uncertain"
+            },
+            "spoon": {
+                "color": "silver",
+                "size": "small",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty",
+                "destination": "dishwasher",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "napkin": {
+                "color": "white",
+                "size": "medium",
+                "shape": "square",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene7": {
+            "spoon 1": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "cup": {
+                "color": "white",
+                "size": "medium",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "knife": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "plate 1": {
+                "color": "white",
+                "size": "big",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "plate 2": {
+                "color": "white",
+                "size": "big",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene27": {
+            "spoon": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "plate": {
+                "color": "white",
+                "size": "big",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "napkin": {
+                "color": "white",
+                "size": "medium",
+                "shape": "square",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene13": {
+            "fork": {
+                "color": "yellow",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "knife": {
+                "color": "yellow",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene20": {
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "bowl 1": {
+                "color": "brown",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "plate 1": {
+                "color": "white",
+                "size": "big",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "vase": {
+                "color": "various",
+                "size": "medium",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "uncertain",
+                "grasping_type": "edge grasp",
+                "placing_type": "uncertain"
+            },
+            "plate 2": {
+                "color": "white",
+                "size": "big",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "bowl 2": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene12": {
+            "apple 1": {
+                "color": "red",
+                "size": "medium",
+                "shape": "spherical",
+                "container": "false",
+                "state": "intact",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "apple 2": {
+                "color": "red",
+                "size": "small",
+                "shape": "spherical",
+                "container": "false",
+                "state": "leftover food",
+                "destination": "uncertain",
+                "grasping_type": "top grasp",
+                "placing_type": "uncertain"
+            },
+            "plate": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "dirty",
+                "destination": "dishwasher",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "leaf": {
+                "color": "dark green",
+                "size": "small",
+                "shape": "irregular",
+                "container": "false",
+                "state": "intact",
+                "destination": "trash bin",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene19": {
+            "glass": {
+                "color": "transparent",
+                "size": "medium",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "uncertain",
+                "grasping_type": "edge grasp",
+                "placing_type": "uncertain"
+            },
+            "bowl": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "uncertain",
+                "grasping_type": "edge grasp",
+                "placing_type": "uncertain"
+            },
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "napkin": {
+                "color": "white",
+                "size": "medium",
+                "shape": "square",
+                "container": "false",
+                "state": "dirty",
+                "destination": "trash bin",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene29": {
+            "cafe 1": {
+                "color": "brown",
+                "size": "medium",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "dishwasher",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "bowl 1": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "orange 1": {
+                "color": "orange",
+                "size": "medium",
+                "shape": "spherical",
+                "container": "false",
+                "state": "leftover food",
+                "destination": "uncertain",
+                "grasping_type": "edge grasp",
+                "placing_type": "uncertain"
+            },
+            "plate 1": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "dishwasher",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "plate 2": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "dishwasher",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "orange slice 1": {
+                "color": "orange",
+                "size": "small",
+                "shape": "irregular",
+                "container": "false",
+                "state": "leftover food",
+                "destination": "uncertain",
+                "grasping_type": "ungraspable",
+                "placing_type": "uncertain"
+            },
+            "orange slice 2": {
+                "color": "orange",
+                "size": "small",
+                "shape": "irregular",
+                "container": "false",
+                "state": "leftover food",
+                "destination": "uncertain",
+                "grasping_type": "ungraspable",
+                "placing_type": "uncertain"
+            },
+            "orange slice 3": {
+                "color": "orange",
+                "size": "small",
+                "shape": "irregular",
+                "container": "false",
+                "state": "leftover food",
+                "destination": "uncertain",
+                "grasping_type": "ungraspable",
+                "placing_type": "uncertain"
+            },
+            "orange slice 4": {
+                "color": "orange",
+                "size": "small",
+                "shape": "irregular",
+                "container": "false",
+                "state": "leftover food",
+                "destination": "uncertain",
+                "grasping_type": "ungraspable",
+                "placing_type": "uncertain"
+            }
+        }
+    },
+    {
+        "scene6": {
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty",
+                "destination": "dishwasher",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "plate": {
+                "color": "white",
+                "size": "big",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "uncertain",
+                "grasping_type": "edge grasp",
+                "placing_type": "uncertain"
+            },
+            "meat": {
+                "color": "white",
+                "size": "medium",
+                "shape": "irregular",
+                "container": "false",
+                "state": "intact",
+                "destination": "cupboard",
+                "grasping_type": "ungraspable",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene30": {
+            "bowl 1": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "plate": {
+                "color": "white",
+                "size": "big",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "fork": {
+                "color": "not specified",
+                "size": "not specified",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "apple 1": {
+                "color": "green",
+                "size": "medium",
+                "shape": "spherical",
+                "container": "false",
+                "state": "intact",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "apple 2": {
+                "color": "green",
+                "size": "medium",
+                "shape": "spherical",
+                "container": "false",
+                "state": "intact",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "bowl 2": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "uncertain",
+                "grasping_type": "edge grasp",
+                "placing_type": "uncertain"
+            }
+        }
+    },
+    {
+        "scene31": {
+            "spoon": {
+                "color": "unspecified",
+                "size": "unspecified",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty",
+                "destination": "dishwasher",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "soup": {
+                "color": "unspecified",
+                "size": "unspecified",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "uncertain",
+                "grasping_type": "ungraspable",
+                "placing_type": "uncertain"
+            },
+            "plate": {
+                "color": "white",
+                "size": "medium",
+                "shape": "rectangular",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "bowl 1": {
+                "color": "unspecified",
+                "size": "unspecified",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "uncertain",
+                "grasping_type": "edge grasp",
+                "placing_type": "uncertain"
+            },
+            "bowl 2": {
+                "color": "unspecified",
+                "size": "unspecified",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene40": {
+            "knife": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "cup": {
+                "color": "transparent",
+                "size": "medium",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "dishwasher",
+                "grasping_type": "edge grasp",
+                "placing_type": "pour"
+            }
+        }
+    },
+    {
+        "scene5": {
+            "bowl": {
+                "color": "white",
+                "size": "small",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene18": {
+            "plate 1": {
+                "color": "yellow",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "napkin": {
+                "color": "white",
+                "size": "medium",
+                "shape": "irregular",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "ungraspable",
+                "placing_type": "place"
+            },
+            "food": {
+                "color": "brown",
+                "size": "small",
+                "shape": "irregular",
+                "container": "false",
+                "state": "leftover food",
+                "destination": "uncertain",
+                "grasping_type": "ungraspable",
+                "placing_type": "uncertain"
+            },
+            "cup": {
+                "color": "brown",
+                "size": "small",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "silverware": {
+                "color": "silver",
+                "size": "small",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty",
+                "destination": "dishwasher",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene28": {
+            "glass of orange juice": {
+                "color": "orange",
+                "size": "medium",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "uncertain",
+                "grasping_type": "edge grasp",
+                "placing_type": "uncertain"
+            },
+            "silver fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "white plate": {
+                "color": "white",
+                "size": "big",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "butter knife": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene17": {
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty",
+                "destination": "dishwasher",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "bowl": {
+                "color": "uncertain",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "uncertain",
+                "grasping_type": "edge grasp",
+                "placing_type": "uncertain"
+            }
+        }
+    },
+    {
+        "scene37": {
+            "cup 1": {
+                "color": "white",
+                "size": "medium",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "bowl 1": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "orange": {
+                "color": "orange",
+                "size": "small",
+                "shape": "spherical",
+                "container": "false",
+                "state": "leftover food",
+                "destination": "uncertain",
+                "grasping_type": "top grasp",
+                "placing_type": "uncertain"
+            },
+            "bowl 2": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "uncertain",
+                "grasping_type": "edge grasp",
+                "placing_type": "uncertain"
+            },
+            "egg yolk": {
+                "color": "yellow",
+                "size": "large",
+                "shape": "round",
+                "container": "false",
+                "state": "intact",
+                "destination": "cupboard",
+                "grasping_type": "ungraspable",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene16": {
+            "bowl 1": {
+                "color": "white",
+                "size": "small",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "cup 1": {
+                "color": "various",
+                "size": "medium",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "dishwasher",
+                "grasping_type": "edge grasp",
+                "placing_type": "pour"
+            },
+            "cup 2": {
+                "color": "various",
+                "size": "medium",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "dishwasher",
+                "grasping_type": "edge grasp",
+                "placing_type": "pour"
+            }
+        }
+    },
+    {
+        "scene11": {
+            "bowl 1": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "orange 1": {
+                "color": "orange",
+                "size": "medium",
+                "shape": "spherical",
+                "container": "false",
+                "state": "intact",
+                "destination": "fridge",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "orange 2": {
+                "color": "orange",
+                "size": "medium",
+                "shape": "spherical",
+                "container": "false",
+                "state": "intact",
+                "destination": "fridge",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "orange slice 1": {
+                "color": "orange",
+                "size": "small",
+                "shape": "irregular",
+                "container": "false",
+                "state": "leftover food",
+                "destination": "uncertain",
+                "grasping_type": "ungraspable",
+                "placing_type": "uncertain"
+            },
+            "orange slice 2": {
+                "color": "orange",
+                "size": "small",
+                "shape": "irregular",
+                "container": "false",
+                "state": "leftover food",
+                "destination": "uncertain",
+                "grasping_type": "ungraspable",
+                "placing_type": "uncertain"
+            },
+            "plate": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "dishwasher",
+                "grasping_type": "edge grasp",
+                "placing_type": "pour"
+            }
+        }
+    },
+    {
+        "scene23": {
+            "spoon 1": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "plate 1": {
+                "color": "unknown",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "napkin 1": {
+                "color": "white",
+                "size": "medium",
+                "shape": "square",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene21": {
+            "bowl 1": {
+                "color": "black",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "uncertain",
+                "grasping_type": "edge grasp",
+                "placing_type": "uncertain"
+            },
+            "plate": {
+                "color": "unknown",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "uncertain",
+                "grasping_type": "edge grasp",
+                "placing_type": "uncertain"
+            },
+            "glass": {
+                "color": "unknown",
+                "size": "small",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "uncertain",
+                "grasping_type": "top grasp",
+                "placing_type": "uncertain"
+            },
+            "cake": {
+                "color": "unknown",
+                "size": "small",
+                "shape": "irregular",
+                "container": "false",
+                "state": "leftover food",
+                "destination": "uncertain",
+                "grasping_type": "ungraspable",
+                "placing_type": "uncertain"
+            },
+            "radish": {
+                "color": "unknown",
+                "size": "small",
+                "shape": "irregular",
+                "container": "false",
+                "state": "leftover food",
+                "destination": "uncertain",
+                "grasping_type": "ungraspable",
+                "placing_type": "uncertain"
+            }
+        }
+    },
+    {
+        "scene9": {
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "plate": {
+                "color": "white",
+                "size": "big",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene4": {
+            "cup": {
+                "color": "transparent",
+                "size": "small",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "dishwasher",
+                "grasping_type": "top grasp",
+                "placing_type": "pour"
+            },
+            "plate 1": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "dishwasher",
+                "grasping_type": "edge grasp",
+                "placing_type": "pour"
+            },
+            "fork": {
+                "color": "silver",
+                "size": "small",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty",
+                "destination": "dishwasher",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "plate 2": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "napkin": {
+                "color": "white",
+                "size": "small",
+                "shape": "square",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene36": {
+            "cup": {
+                "color": "various",
+                "size": "medium",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "dishwasher",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene2": {
+            "tray 1": {
+                "color": "red",
+                "size": "medium",
+                "shape": "rectangular",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "plate 1": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "trash bin",
+                "grasping_type": "edge grasp",
+                "placing_type": "pour"
+            },
+            "plate 2": {
+                "color": "white and orange",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "spoon 1": {
+                "color": "silver",
+                "size": "small",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "spoon 2": {
+                "color": "silver",
+                "size": "small",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty",
+                "destination": "dishwasher",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene15": {
+            "cup 1": {
+                "color": "white",
+                "size": "medium",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "fork 1": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "fork 2": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty",
+                "destination": "dishwasher",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "napkin": {
+                "color": "white",
+                "size": "medium",
+                "shape": "square",
+                "container": "false",
+                "state": "dirty",
+                "destination": "trash bin",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "knife": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene33": {
+            "spoon": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "tray": {
+                "color": "red",
+                "size": "big",
+                "shape": "rectangular",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "knife": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "bowl": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene35": {
+            "cup 1": {
+                "color": "white",
+                "size": "medium",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "bowl": {
+                "color": "various",
+                "size": "big",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "uncertain",
+                "grasping_type": "edge grasp",
+                "placing_type": "uncertain"
+            },
+            "banana 1": {
+                "color": "yellow",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "intact",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "banana 2": {
+                "color": "yellow",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "intact",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene26": {
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "plate": {
+                "color": "white",
+                "size": "big",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            }
+        }
+    },
+    {
+        "scene24": {
+            "bowl 1": {
+                "color": "white",
+                "size": "small",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "bowl 2": {
+                "color": "white",
+                "size": "small",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food",
+                "destination": "uncertain",
+                "grasping_type": "top grasp",
+                "placing_type": "uncertain"
+            },
+            "fork": {
+                "color": "not specified",
+                "size": "not specified",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty",
+                "destination": "dishwasher",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "plate": {
+                "color": "not specified",
+                "size": "not specified",
+                "shape": "round",
+                "container": "true",
+                "state": "dirty",
+                "destination": "dishwasher",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "soup": {
+                "color": "not specified",
+                "size": "not specified",
+                "shape": "irregular",
+                "container": "false",
+                "state": "leftover food",
+                "destination": "uncertain",
+                "grasping_type": "ungraspable",
+                "placing_type": "uncertain"
+            }
+        }
+    },
+    {
+        "scene8": {
+            "bowl 1": {
+                "color": "white",
+                "size": "big",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "orange": {
+                "color": "bright orange",
+                "size": "medium",
+                "shape": "spherical",
+                "container": "false",
+                "state": "intact",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "cup": {
+                "color": "yellow",
+                "size": "medium",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            },
+            "tape": {
+                "color": "brown",
+                "size": "small",
+                "shape": "cylindrical",
+                "container": "false",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "top grasp",
+                "placing_type": "place"
+            },
+            "bowl 2": {
+                "color": "white",
+                "size": "big",
+                "shape": "round",
+                "container": "true",
+                "state": "clean",
+                "destination": "cupboard",
+                "grasping_type": "edge grasp",
+                "placing_type": "place"
+            }
+        }
+    }
+]

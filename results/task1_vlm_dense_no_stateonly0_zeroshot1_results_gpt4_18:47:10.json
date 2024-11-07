@@ -1,0 +1,624 @@
+[
+    {
+        "scene39": {
+            "pizza": {
+                "color": "red, white, brown",
+                "size": "large",
+                "shape": "circular",
+                "container": "plate",
+                "state": "solid",
+                "destination": "storage",
+                "grasping_type": "flat",
+                "placing_type": "horizontal"
+            }
+        }
+    },
+    {
+        "scene38": {
+            "plate 1": {
+                "color": "white",
+                "size": "large",
+                "shape": "round",
+                "container": "none",
+                "state": "solid",
+                "destination": "kitchen",
+                "grasping_type": "from the bottom",
+                "placing_type": "stack"
+            },
+            "plate 2": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "none",
+                "state": "solid",
+                "destination": "kitchen",
+                "grasping_type": "from the bottom",
+                "placing_type": "stack"
+            },
+            "salad": {
+                "color": "various",
+                "size": "small",
+                "shape": "irregular",
+                "container": "plate 1",
+                "state": "solid",
+                "destination": "compost",
+                "grasping_type": "scoop",
+                "placing_type": "dump"
+            },
+            "soup": {
+                "color": "brown",
+                "size": "small",
+                "shape": "round",
+                "container": "bowl",
+                "state": "liquid",
+                "destination": "kitchen",
+                "grasping_type": "from the top",
+                "placing_type": "carry"
+            }
+        }
+    },
+    {
+        "scene1": {
+            "bowl": {
+                "color": "white with red",
+                "size": "medium",
+                "shape": "round",
+                "container": "none",
+                "state": "empty",
+                "destination": "kitchen",
+                "grasping_type": "from sides",
+                "placing_type": "upright"
+            },
+            "spoon": {
+                "color": "silver",
+                "size": "small",
+                "shape": "oval",
+                "container": "bowl",
+                "state": "used",
+                "destination": "kitchen",
+                "grasping_type": "from top",
+                "placing_type": "upright"
+            },
+            "bread 1": {
+                "color": "light brown",
+                "size": "small",
+                "shape": "irregular",
+                "container": "none",
+                "state": "solid",
+                "destination": "kitchen",
+                "grasping_type": "pinch",
+                "placing_type": "flat"
+            },
+            "bread 2": {
+                "color": "light brown",
+                "size": "small",
+                "shape": "irregular",
+                "container": "none",
+                "state": "solid",
+                "destination": "kitchen",
+                "grasping_type": "pinch",
+                "placing_type": "flat"
+            }
+        }
+    },
+    {
+        "scene3": {
+            "plate 1": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "none",
+                "state": "dirty",
+                "destination": "kitchen",
+                "grasping_type": "from above",
+                "placing_type": "stack"
+            },
+            "fork 1": {
+                "color": "silver",
+                "size": "small",
+                "shape": "elongated",
+                "container": "plate 1",
+                "state": "dirty",
+                "destination": "kitchen",
+                "grasping_type": "from above",
+                "placing_type": "stack"
+            },
+            "spoon 1": {
+                "color": "silver",
+                "size": "small",
+                "shape": "oval",
+                "container": "plate 1",
+                "state": "dirty",
+                "destination": "kitchen",
+                "grasping_type": "from above",
+                "placing_type": "stack"
+            },
+            "plate 2": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "none",
+                "state": "dirty",
+                "destination": "kitchen",
+                "grasping_type": "from above",
+                "placing_type": "stack"
+            },
+            "fork 2": {
+                "color": "silver",
+                "size": "small",
+                "shape": "elongated",
+                "container": "plate 2",
+                "state": "dirty",
+                "destination": "kitchen",
+                "grasping_type": "from above",
+                "placing_type": "stack"
+            },
+            "spoon 2": {
+                "color": "silver",
+                "size": "small",
+                "shape": "oval",
+                "container": "plate 2",
+                "state": "dirty",
+                "destination": "kitchen",
+                "grasping_type": "from above",
+                "placing_type": "stack"
+            },
+            "knife 1": {
+                "color": "silver",
+                "size": "small",
+                "shape": "elongated",
+                "container": "plate 1",
+                "state": "dirty",
+                "destination": "kitchen",
+                "grasping_type": "from above",
+                "placing_type": "stack"
+            }
+        }
+    },
+    {
+        "scene34": {
+            "plate": {
+                "color": "white",
+                "size": "large",
+                "shape": "round",
+                "container": "none",
+                "state": "dirty",
+                "destination": "kitchen",
+                "grasping_type": "from above",
+                "placing_type": "stack"
+            },
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "none",
+                "state": "dirty",
+                "destination": "kitchen",
+                "grasping_type": "from above",
+                "placing_type": "stack"
+            }
+        }
+    },
+    {
+        "scene22": {
+            "napkin": {
+                "color": "white",
+                "size": "small",
+                "shape": "irregular",
+                "container": "none",
+                "state": "solid",
+                "destination": "trash",
+                "grasping_type": "pinch",
+                "placing_type": "none"
+            },
+            "orange 1": {
+                "color": "orange",
+                "size": "medium",
+                "shape": "round",
+                "container": "none",
+                "state": "solid",
+                "destination": "trash",
+                "grasping_type": "encompassing",
+                "placing_type": "none"
+            },
+            "orange 2": {
+                "color": "orange",
+                "size": "medium",
+                "shape": "irregular",
+                "container": "none",
+                "state": "solid",
+                "destination": "trash",
+                "grasping_type": "encompassing",
+                "placing_type": "none"
+            },
+            "cup 1": {
+                "color": "yellow",
+                "size": "medium",
+                "shape": "cylindrical",
+                "container": "none",
+                "state": "solid",
+                "destination": "kitchen",
+                "grasping_type": "encompassing",
+                "placing_type": "upright"
+            },
+            "cup 2": {
+                "color": "white",
+                "size": "medium",
+                "shape": "cylindrical",
+                "container": "none",
+                "state": "solid",
+                "destination": "kitchen",
+                "grasping_type": "encompassing",
+                "placing_type": "upright"
+            },
+            "bowl": {
+                "color": "transparent",
+                "size": "small",
+                "shape": "cylindrical",
+                "container": "none",
+                "state": "solid",
+                "destination": "kitchen",
+                "grasping_type": "encompassing",
+                "placing_type": "upright"
+            }
+        }
+    },
+    {
+        "scene10": {
+            "apple 1": {
+                "color": "red",
+                "size": "medium",
+                "shape": "round",
+                "container": "plate",
+                "state": "whole",
+                "destination": "fruit_bowl",
+                "grasping_type": "gentle",
+                "placing_type": "on_top"
+            },
+            "apple 2": {
+                "color": "green",
+                "size": "medium",
+                "shape": "round",
+                "container": "plate",
+                "state": "whole",
+                "destination": "fruit_bowl",
+                "grasping_type": "gentle",
+                "placing_type": "on_top"
+            },
+            "apple 3": {
+                "color": "green",
+                "size": "medium",
+                "shape": "round",
+                "container": "none",
+                "state": "whole",
+                "destination": "fruit_bowl",
+                "grasping_type": "gentle",
+                "placing_type": "on_top"
+            },
+            "plate": {
+                "color": "white",
+                "size": "large",
+                "shape": "round",
+                "container": "none",
+                "state": "empty",
+                "destination": "kitchen_cabinet",
+                "grasping_type": "firm",
+                "placing_type": "stack"
+            },
+            "spoon": {
+                "color": "silver",
+                "size": "small",
+                "shape": "oval",
+                "container": "none",
+                "state": "unused",
+                "destination": "kitchen_drawer",
+                "grasping_type": "firm",
+                "placing_type": "align"
+            },
+            "napkin": {
+                "color": "white",
+                "size": "small",
+                "shape": "square",
+                "container": "none",
+                "state": "unused",
+                "destination": "laundry",
+                "grasping_type": "pinch",
+                "placing_type": "fold"
+            }
+        }
+    },
+    {
+        "scene25": {
+            "plate": {
+                "color": "white",
+                "size": "large",
+                "shape": "round",
+                "container": "none",
+                "state": "dirty",
+                "destination": "kitchen",
+                "grasping_type": "from above",
+                "placing_type": "stack"
+            },
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "none",
+                "state": "dirty",
+                "destination": "kitchen",
+                "grasping_type": "from above",
+                "placing_type": "stack"
+            },
+            "knife": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "none",
+                "state": "dirty",
+                "destination": "kitchen",
+                "grasping_type": "from above",
+                "placing_type": "stack"
+            }
+        }
+    },
+    {
+        "scene14": {
+            "tray": {
+                "color": "white",
+                "size": "large",
+                "shape": "rectangle",
+                "container": "no",
+                "state": "solid",
+                "destination": "kitchen",
+                "grasping_type": "slide",
+                "placing_type": "stack"
+            },
+            "plate": {
+                "color": "white",
+                "size": "medium",
+                "shape": "circle",
+                "container": "no",
+                "state": "solid",
+                "destination": "kitchen",
+                "grasping_type": "pinch",
+                "placing_type": "stack"
+            },
+            "knife": {
+                "color": "silver",
+                "size": "small",
+                "shape": "elongated",
+                "container": "no",
+                "state": "solid",
+                "destination": "kitchen",
+                "grasping_type": "pinch",
+                "placing_type": "align"
+            },
+            "fork": {
+                "color": "silver",
+                "size": "small",
+                "shape": "elongated",
+                "container": "no",
+                "state": "solid",
+                "destination": "kitchen",
+                "grasping_type": "pinch",
+                "placing_type": "align"
+            },
+            "napkin": {
+                "color": "white",
+                "size": "small",
+                "shape": "square",
+                "container": "no",
+                "state": "solid",
+                "destination": "trash",
+                "grasping_type": "pinch",
+                "placing_type": "crumple"
+            }
+        }
+    },
+    {
+        "scene32": {
+            "tray": {
+                "color": "orange",
+                "size": "large",
+                "shape": "rectangle",
+                "container": "no",
+                "state": "solid",
+                "destination": "stack",
+                "grasping_type": "flat",
+                "placing_type": "stacking"
+            },
+            "plate": {
+                "color": "white",
+                "size": "medium",
+                "shape": "circle",
+                "container": "yes",
+                "state": "solid",
+                "destination": "dishwasher",
+                "grasping_type": "edge",
+                "placing_type": "stacking"
+            },
+            "spoon": {
+                "color": "silver",
+                "size": "small",
+                "shape": "oval",
+                "container": "no",
+                "state": "solid",
+                "destination": "dishwasher",
+                "grasping_type": "pinch",
+                "placing_type": "nesting"
+            },
+            "napkin": {
+                "color": "white",
+                "size": "small",
+                "shape": "rectangle",
+                "container": "no",
+                "state": "solid",
+                "destination": "trash",
+                "grasping_type": "pinch",
+                "placing_type": "folding"
+            },
+            "soup": {
+                "color": "orange",
+                "size": "medium",
+                "shape": "circle",
+                "container": "plate",
+                "state": "liquid",
+                "destination": "sink",
+                "grasping_type": "scooping",
+                "placing_type": "pouring"
+            }
+        }
+    },
+    {
+        "scene7": {
+            "tray": {
+                "color": "white",
+                "size": "large",
+                "shape": "rectangle",
+                "container": "none",
+                "state": "solid",
+                "destination": "kitchen",
+                "grasping_type": "slide",
+                "placing_type": "stack"
+            },
+            "napkin": {
+                "color": "white",
+                "size": "small",
+                "shape": "rectangle",
+                "container": "none",
+                "state": "solid",
+                "destination": "trash",
+                "grasping_type": "pinch",
+                "placing_type": "fold"
+            },
+            "spoon": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "oval",
+                "container": "none",
+                "state": "solid",
+                "destination": "kitchen",
+                "grasping_type": "clamp",
+                "placing_type": "align"
+            },
+            "cup": {
+                "color": "white",
+                "size": "medium",
+                "shape": "cylinder",
+                "container": "none",
+                "state": "solid",
+                "destination": "kitchen",
+                "grasping_type": "enclose",
+                "placing_type": "upright"
+            },
+            "plate": {
+                "color": "white",
+                "size": "large",
+                "shape": "circle",
+                "container": "none",
+                "state": "solid",
+                "destination": "kitchen",
+                "grasping_type": "slide",
+                "placing_type": "stack"
+            },
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "irregular",
+                "container": "none",
+                "state": "solid",
+                "destination": "kitchen",
+                "grasping_type": "clamp",
+                "placing_type": "align"
+            },
+            "salad": {
+                "color": "various",
+                "size": "medium",
+                "shape": "irregular",
+                "container": "plate",
+                "state": "solid",
+                "destination": "kitchen",
+                "grasping_type": "scoop",
+                "placing_type": "on_top"
+            }
+        }
+    },
+    {
+        "scene27": {
+            "napkin": {
+                "color": "white",
+                "size": "small",
+                "shape": "irregular",
+                "container": "none",
+                "state": "used",
+                "destination": "trash",
+                "grasping_type": "pinch",
+                "placing_type": "none"
+            },
+            "bowl": {
+                "color": "white",
+                "size": "large",
+                "shape": "round",
+                "container": "none",
+                "state": "dirty",
+                "destination": "kitchen",
+                "grasping_type": "encompassing",
+                "placing_type": "none"
+            },
+            "chopsticks": {
+                "color": "beige",
+                "size": "medium",
+                "shape": "cylindrical",
+                "container": "none",
+                "state": "used",
+                "destination": "kitchen",
+                "grasping_type": "pinch",
+                "placing_type": "none"
+            },
+            "spoon": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "oval",
+                "container": "none",
+                "state": "used",
+                "destination": "kitchen",
+                "grasping_type": "pinch",
+                "placing_type": "none"
+            }
+        }
+    },
+    {
+        "scene13": {
+            "plate": {
+                "color": "white",
+                "size": "large",
+                "shape": "round",
+                "container": "none",
+                "state": "dirty",
+                "destination": "kitchen",
+                "grasping_type": "from above",
+                "placing_type": "stack"
+            },
+            "knife": {
+                "color": "yellow",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "none",
+                "state": "dirty",
+                "destination": "kitchen",
+                "grasping_type": "from above",
+                "placing_type": "side"
+            },
+            "fork": {
+                "color": "yellow",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "none",
+                "state": "dirty",
+                "destination": "kitchen",
+                "grasping_type": "from above",
+                "placing_type": "side"
+            }
+        }
+    }
+]

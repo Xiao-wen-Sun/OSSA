@@ -1,0 +1,1476 @@
+[
+    {
+        "scene39": {
+            "plate": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            }
+        }
+    },
+    {
+        "scene38": {
+            "plate": {
+                "color": "white",
+                "size": "large",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "bowl": {
+                "color": "white",
+                "size": "small",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            }
+        }
+    },
+    {
+        "scene1": {
+            "bowl": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "spoon": {
+                "color": "silver",
+                "size": "small",
+                "shape": "irregular",
+                "container": "false",
+                "state": "dirty"
+            },
+            "bread 1": {
+                "color": "beige",
+                "size": "small",
+                "shape": "irregular",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "bread 2": {
+                "color": "beige",
+                "size": "small",
+                "shape": "irregular",
+                "container": "false",
+                "state": "leftover food"
+            }
+        }
+    },
+    {
+        "scene3": {
+            "plate 1": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "fork 1": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty"
+            },
+            "spoon 1": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "oval",
+                "container": "false",
+                "state": "dirty"
+            },
+            "plate 2": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "fork 2": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty"
+            },
+            "spoon 2": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "oval",
+                "container": "false",
+                "state": "dirty"
+            }
+        }
+    },
+    {
+        "scene34": {
+            "plate": {
+                "color": "white",
+                "size": "large",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty"
+            }
+        }
+    },
+    {
+        "scene22": {
+            "napkin": {
+                "color": "white",
+                "size": "small",
+                "shape": "irregular",
+                "container": "false",
+                "state": "dirty"
+            },
+            "orange 1": {
+                "color": "orange",
+                "size": "small",
+                "shape": "spherical",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "orange 2": {
+                "color": "orange",
+                "size": "medium",
+                "shape": "spherical",
+                "container": "false",
+                "state": "intact"
+            },
+            "cup 1": {
+                "color": "yellow",
+                "size": "medium",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "dirty"
+            },
+            "cup 2": {
+                "color": "white",
+                "size": "medium",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "dirty"
+            },
+            "box": {
+                "color": "transparent",
+                "size": "small",
+                "shape": "square",
+                "container": "true",
+                "state": "clean"
+            }
+        }
+    },
+    {
+        "scene10": {
+            "apple 1": {
+                "color": "red",
+                "size": "medium",
+                "shape": "spherical",
+                "container": "false",
+                "state": "intact"
+            },
+            "apple 2": {
+                "color": "green",
+                "size": "small",
+                "shape": "spherical",
+                "container": "false",
+                "state": "intact"
+            },
+            "apple 3": {
+                "color": "red-green",
+                "size": "medium",
+                "shape": "spherical",
+                "container": "false",
+                "state": "intact"
+            },
+            "plate": {
+                "color": "white",
+                "size": "large",
+                "shape": "round",
+                "container": "true",
+                "state": "clean"
+            },
+            "spoon": {
+                "color": "silver",
+                "size": "small",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean"
+            },
+            "napkin": {
+                "color": "white",
+                "size": "small",
+                "shape": "rectangular",
+                "container": "false",
+                "state": "clean"
+            }
+        }
+    },
+    {
+        "scene25": {
+            "plate": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "dirty"
+            },
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "irregular",
+                "container": "false",
+                "state": "dirty"
+            },
+            "knife": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "irregular",
+                "container": "false",
+                "state": "dirty"
+            }
+        }
+    },
+    {
+        "scene14": {
+            "plate": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "dirty"
+            },
+            "knife": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty"
+            },
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty"
+            },
+            "tray": {
+                "color": "white",
+                "size": "large",
+                "shape": "rectangular",
+                "container": "true",
+                "state": "clean"
+            },
+            "napkin": {
+                "color": "white",
+                "size": "small",
+                "shape": "irregular",
+                "container": "false",
+                "state": "dirty"
+            }
+        }
+    },
+    {
+        "scene32": {
+            "tray": {
+                "color": "orange",
+                "size": "large",
+                "shape": "rectangular",
+                "container": "true",
+                "state": "clean"
+            },
+            "napkin": {
+                "color": "white",
+                "size": "medium",
+                "shape": "rectangular",
+                "container": "false",
+                "state": "dirty"
+            },
+            "bowl": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "spoon": {
+                "color": "silver",
+                "size": "small",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty"
+            }
+        }
+    },
+    {
+        "scene13": {
+            "plate": {
+                "color": "white",
+                "size": "large",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "knife": {
+                "color": "yellow",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty"
+            },
+            "fork": {
+                "color": "yellow",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty"
+            }
+        }
+    },
+    {
+        "scene20": {
+            "plate 1": {
+                "color": "white",
+                "size": "large",
+                "shape": "round",
+                "container": "true",
+                "state": "clean"
+            },
+            "bowl": {
+                "color": "beige",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "clean"
+            },
+            "plate 2": {
+                "color": "beige",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "clean"
+            },
+            "fork": {
+                "color": "silver",
+                "size": "small",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean"
+            },
+            "knife": {
+                "color": "silver",
+                "size": "small",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean"
+            },
+            "bowl 2": {
+                "color": "white",
+                "size": "small",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "salt shaker": {
+                "color": "white",
+                "size": "small",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "clean"
+            }
+        }
+    },
+    {
+        "scene12": {
+            "plate 1": {
+                "color": "white",
+                "size": "large",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "apple 1": {
+                "color": "red",
+                "size": "medium",
+                "shape": "spherical",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "plate 2": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "clean"
+            },
+            "apple 2": {
+                "color": "red",
+                "size": "medium",
+                "shape": "spherical",
+                "container": "false",
+                "state": "intact"
+            }
+        }
+    },
+    {
+        "scene19": {
+            "plate": {
+                "color": "white",
+                "size": "large",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "glass": {
+                "color": "transparent",
+                "size": "small",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "napkin": {
+                "color": "white",
+                "size": "medium",
+                "shape": "square",
+                "container": "false",
+                "state": "clean"
+            },
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "irregular",
+                "container": "false",
+                "state": "dirty"
+            }
+        }
+    },
+    {
+        "scene29": {
+            "cup": {
+                "color": "white",
+                "size": "small",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "plate 1": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "clean"
+            },
+            "orange 1": {
+                "color": "orange",
+                "size": "small",
+                "shape": "spherical",
+                "container": "false",
+                "state": "intact"
+            },
+            "orange 2": {
+                "color": "orange",
+                "size": "small",
+                "shape": "spherical",
+                "container": "false",
+                "state": "intact"
+            },
+            "orange 3": {
+                "color": "orange",
+                "size": "small",
+                "shape": "spherical",
+                "container": "false",
+                "state": "intact"
+            },
+            "plate 2": {
+                "color": "white",
+                "size": "large",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "orange 4": {
+                "color": "orange",
+                "size": "medium",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "orange 5": {
+                "color": "orange",
+                "size": "medium",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "orange 6": {
+                "color": "orange",
+                "size": "medium",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "orange 7": {
+                "color": "orange",
+                "size": "medium",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "orange 8": {
+                "color": "orange",
+                "size": "medium",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            }
+        }
+    },
+    {
+        "scene6": {
+            "tray": {
+                "color": "grey",
+                "size": "large",
+                "shape": "rectangular",
+                "container": "true",
+                "state": "dirty"
+            },
+            "plate": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "fork": {
+                "color": "silver",
+                "size": "small",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty"
+            },
+            "knife": {
+                "color": "silver",
+                "size": "small",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty"
+            },
+            "napkin": {
+                "color": "white",
+                "size": "small",
+                "shape": "irregular",
+                "container": "false",
+                "state": "dirty"
+            }
+        }
+    },
+    {
+        "scene30": {
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean"
+            },
+            "plate": {
+                "color": "white",
+                "size": "large",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "bowl": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "apple 1": {
+                "color": "green",
+                "size": "small",
+                "shape": "spherical",
+                "container": "false",
+                "state": "intact"
+            },
+            "apple 2": {
+                "color": "green",
+                "size": "small",
+                "shape": "spherical",
+                "container": "false",
+                "state": "intact"
+            }
+        }
+    },
+    {
+        "scene40": {
+            "plate": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "fork": {
+                "color": "silver",
+                "size": "small",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty"
+            },
+            "knife": {
+                "color": "silver",
+                "size": "small",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty"
+            },
+            "cup": {
+                "color": "transparent",
+                "size": "small",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "napkin": {
+                "color": "white",
+                "size": "small",
+                "shape": "irregular",
+                "container": "false",
+                "state": "dirty"
+            }
+        }
+    },
+    {
+        "scene5": {
+            "bowl": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "cup": {
+                "color": "white",
+                "size": "small",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "chopsticks": {
+                "color": "green",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean"
+            },
+            "plate": {
+                "color": "black",
+                "size": "small",
+                "shape": "round",
+                "container": "true",
+                "state": "clean"
+            }
+        }
+    },
+    {
+        "scene18": {
+            "plate": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "knife": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean"
+            },
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean"
+            },
+            "napkin": {
+                "color": "white",
+                "size": "small",
+                "shape": "square",
+                "container": "false",
+                "state": "dirty"
+            },
+            "cup": {
+                "color": "white",
+                "size": "small",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "clean"
+            },
+            "bowl": {
+                "color": "yellow",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "spoon": {
+                "color": "silver",
+                "size": "small",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty"
+            }
+        }
+    },
+    {
+        "scene28": {
+            "plate": {
+                "color": "white",
+                "size": "large",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty"
+            },
+            "knife": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty"
+            },
+            "cup": {
+                "color": "transparent",
+                "size": "medium",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "orange 1": {
+                "color": "orange",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "orange 2": {
+                "color": "orange",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "orange 3": {
+                "color": "orange",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "orange 4": {
+                "color": "orange",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "orange 5": {
+                "color": "orange",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "orange 6": {
+                "color": "orange",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "orange 7": {
+                "color": "orange",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "orange 8": {
+                "color": "orange",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "orange 9": {
+                "color": "orange",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "orange 10": {
+                "color": "orange",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "orange 11": {
+                "color": "orange",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "orange 12": {
+                "color": "orange",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "orange 13": {
+                "color": "orange",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "orange 14": {
+                "color": "orange",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            }
+        }
+    },
+    {
+        "scene17": {
+            "bowl": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty"
+            }
+        }
+    },
+    {
+        "scene37": {
+            "bowl 1": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "bowl 2": {
+                "color": "white",
+                "size": "large",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "cup": {
+                "color": "white",
+                "size": "small",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "orange 1": {
+                "color": "orange",
+                "size": "medium",
+                "shape": "spherical",
+                "container": "false",
+                "state": "intact"
+            },
+            "orange 2": {
+                "color": "orange",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "lemon": {
+                "color": "yellow",
+                "size": "small",
+                "shape": "spherical",
+                "container": "false",
+                "state": "leftover food"
+            }
+        }
+    },
+    {
+        "scene16": {
+            "bowl": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "cup 1": {
+                "color": "white",
+                "size": "small",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "cup 2": {
+                "color": "blue",
+                "size": "medium",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "plate": {
+                "color": "white",
+                "size": "large",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            }
+        }
+    },
+    {
+        "scene11": {
+            "bowl": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "plate": {
+                "color": "white",
+                "size": "large",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "orange 1": {
+                "color": "orange",
+                "size": "medium",
+                "shape": "spherical",
+                "container": "false",
+                "state": "intact"
+            },
+            "orange 2": {
+                "color": "orange",
+                "size": "medium",
+                "shape": "spherical",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "orange 3": {
+                "color": "orange",
+                "size": "small",
+                "shape": "spherical",
+                "container": "false",
+                "state": "leftover food"
+            }
+        }
+    },
+    {
+        "scene23": {
+            "bowl": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "chopsticks": {
+                "color": "beige",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty"
+            },
+            "spoon": {
+                "color": "silver",
+                "size": "small",
+                "shape": "oval",
+                "container": "false",
+                "state": "dirty"
+            },
+            "napkin": {
+                "color": "white",
+                "size": "small",
+                "shape": "irregular",
+                "container": "false",
+                "state": "dirty"
+            }
+        }
+    },
+    {
+        "scene21": {
+            "plate": {
+                "color": "blue",
+                "size": "large",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "bowl": {
+                "color": "brown",
+                "size": "small",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "bread": {
+                "color": "beige",
+                "size": "medium",
+                "shape": "irregular",
+                "container": "false",
+                "state": "leftover food"
+            }
+        }
+    },
+    {
+        "scene9": {
+            "plate": {
+                "color": "white",
+                "size": "large",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty"
+            },
+            "knife": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty"
+            },
+            "peas": {
+                "color": "green",
+                "size": "small",
+                "shape": "spherical",
+                "container": "false",
+                "state": "leftover food"
+            }
+        }
+    },
+    {
+        "scene4": {
+            "plate 1": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "plate 2": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty"
+            },
+            "napkin": {
+                "color": "white",
+                "size": "small",
+                "shape": "square",
+                "container": "false",
+                "state": "clean"
+            },
+            "cup": {
+                "color": "transparent",
+                "size": "small",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "dirty"
+            }
+        }
+    },
+    {
+        "scene36": {
+            "plate 1": {
+                "color": "beige",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "dirty"
+            },
+            "plate 2": {
+                "color": "beige",
+                "size": "large",
+                "shape": "round",
+                "container": "true",
+                "state": "dirty"
+            },
+            "cup": {
+                "color": "white",
+                "size": "small",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "containing leftover food"
+            }
+        }
+    },
+    {
+        "scene26": {
+            "plate": {
+                "color": "orange",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "kiwi 1": {
+                "color": "green",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "kiwi 2": {
+                "color": "green",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "kiwi 3": {
+                "color": "green",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "kiwi 4": {
+                "color": "green",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "kiwi 5": {
+                "color": "green",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "kiwi 6": {
+                "color": "green",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "kiwi 7": {
+                "color": "green",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "kiwi 8": {
+                "color": "green",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "kiwi 9": {
+                "color": "green",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "kiwi 10": {
+                "color": "green",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "kiwi 11": {
+                "color": "green",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "kiwi 12": {
+                "color": "green",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "kiwi 13": {
+                "color": "green",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "kiwi 14": {
+                "color": "green",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            },
+            "kiwi 15": {
+                "color": "green",
+                "size": "small",
+                "shape": "round",
+                "container": "false",
+                "state": "leftover food"
+            }
+        }
+    },
+    {
+        "scene15": {
+            "plate 1": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "plate 2": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "cup": {
+                "color": "black",
+                "size": "small",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "dirty"
+            },
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty"
+            },
+            "knife": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean"
+            },
+            "spoon": {
+                "color": "silver",
+                "size": "small",
+                "shape": "elongated",
+                "container": "false",
+                "state": "clean"
+            },
+            "napkin": {
+                "color": "white",
+                "size": "medium",
+                "shape": "square",
+                "container": "false",
+                "state": "clean"
+            }
+        }
+    },
+    {
+        "scene33": {
+            "tray": {
+                "color": "orange",
+                "size": "large",
+                "shape": "rectangular",
+                "container": "true",
+                "state": "dirty"
+            },
+            "plate": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "knife": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty"
+            },
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty"
+            },
+            "spoon": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty"
+            },
+            "napkin": {
+                "color": "white",
+                "size": "small",
+                "shape": "irregular",
+                "container": "false",
+                "state": "dirty"
+            }
+        }
+    },
+    {
+        "scene35": {
+            "banana": {
+                "color": "yellow",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "intact"
+            },
+            "plate 1": {
+                "color": "beige",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "plate 2": {
+                "color": "white",
+                "size": "large",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "cup": {
+                "color": "white",
+                "size": "small",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "containing leftover food"
+            }
+        }
+    },
+    {
+        "scene24": {
+            "bowl 1": {
+                "color": "white",
+                "size": "small",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "plate 1": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "dirty"
+            },
+            "bowl 2": {
+                "color": "white",
+                "size": "medium",
+                "shape": "round",
+                "container": "true",
+                "state": "containing leftover food"
+            },
+            "plate 2": {
+                "color": "white",
+                "size": "large",
+                "shape": "round",
+                "container": "true",
+                "state": "dirty"
+            },
+            "fork": {
+                "color": "silver",
+                "size": "medium",
+                "shape": "elongated",
+                "container": "false",
+                "state": "dirty"
+            }
+        }
+    },
+    {
+        "scene8": {
+            "cup 1": {
+                "color": "white",
+                "size": "small",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "dirty"
+            },
+            "cup 2": {
+                "color": "yellow",
+                "size": "small",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "dirty"
+            },
+            "orange": {
+                "color": "orange",
+                "size": "small",
+                "shape": "spherical",
+                "container": "false",
+                "state": "intact"
+            },
+            "cup 3": {
+                "color": "white",
+                "size": "small",
+                "shape": "cylindrical",
+                "container": "true",
+                "state": "clean"
+            }
+        }
+    }
+]
