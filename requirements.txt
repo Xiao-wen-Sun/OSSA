@@ -1,4 +1,5 @@
-pip install langchain
-pip install gymnasium
-pip install openai
-pip install sentence-transformers
+langchain==0.3.7
+gymnasium
+openai
+sentence-transformers
+matplotlib
