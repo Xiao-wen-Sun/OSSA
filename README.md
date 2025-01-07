@@ -8,8 +8,8 @@
 1. Clone this repository and navigate to the source folder
 
 ```bash
-git clone https://github.com/Xiao-wen-Sun//home/sun/projects/OSSA.git
-cd /home/sun/projects/OSSA
+git clone https://github.com/Xiao-wen-Sun/OSSA.git
+cd OSSA
 ```
 
 2. Create conda environment
