@@ -1,7 +1,7 @@
 # Details Make a Difference: Object State-Sensitive Neurorobotic Task Planning
 
 
-# Object State-Sensitive Agent (/home/sun/projects/OSSA)
+# Object State-Sensitive Agent
 
 ## Install
 
@@ -15,8 +15,8 @@ cd /home/sun/projects/OSSA
 2. Create conda environment
 
 ```Shell
-conda create -n /home/sun/projects/OSSA python=3.10 -y
-conda activate /home/sun/projects/OSSA
+conda create -n OSSA python=3.10 -y
+conda activate OSSA
 ```
 
 3. Install dependencies
